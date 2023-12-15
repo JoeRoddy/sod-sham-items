@@ -24,7 +24,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3.1,
-      "sta": 7
+      "sta": 7,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -54,7 +55,8 @@
       "sellprice": 1969,
       "sheathtype": 3,
       "slotbak": 21,
-      "speed": 2.3
+      "speed": 2.3,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -136,7 +138,8 @@
       "sellprice": 2020,
       "sheathtype": 3,
       "slotbak": 21,
-      "speed": 2.5
+      "speed": 2.5,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -224,7 +227,8 @@
       "sellprice": 305,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.5
+      "speed": 1.5,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -255,7 +259,8 @@
       "sellprice": 947,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.5
+      "speed": 1.5,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -286,7 +291,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.8,
-      "str": 1
+      "str": 1,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -317,7 +323,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.3,
-      "str": 2
+      "str": 2,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -347,7 +354,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3.3,
-      "str": 7
+      "str": 7,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -377,7 +385,8 @@
       "sellprice": 2692,
       "sheathtype": 2,
       "slotbak": 17,
-      "speed": 3.4
+      "speed": 3.4,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -409,7 +418,8 @@
       "slotbak": 21,
       "speed": 2.1,
       "sta": 2,
-      "str": 2
+      "str": 2,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -441,7 +451,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 3.4,
-      "sta": 6
+      "sta": 6,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -471,7 +482,8 @@
       "sellprice": 1248,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.5
+      "speed": 1.5,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -503,7 +515,8 @@
       "slotbak": 17,
       "speed": 3.4,
       "sta": 2,
-      "str": 8
+      "str": 8,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -534,7 +547,8 @@
       "sellprice": 2821,
       "sheathtype": 3,
       "slotbak": 21,
-      "speed": 2.5
+      "speed": 2.5,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -565,7 +579,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 2.8,
-      "spi": 10
+      "spi": 10,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -596,7 +611,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.4,
-      "str": 2
+      "str": 2,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -628,7 +644,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3.7,
-      "str": 10
+      "str": 10,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -659,7 +676,8 @@
       "sellprice": 1807,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 2.3
+      "speed": 2.3,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -690,7 +708,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.4,
-      "sta": 1
+      "sta": 1,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -721,7 +740,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.7,
-      "str": 5
+      "str": 5,
+      "itemType": "One-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -752,7 +772,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.5,
-      "str": 3
+      "str": 3,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -783,7 +804,8 @@
       "sellprice": 1854,
       "sheathtype": 2,
       "slotbak": 17,
-      "speed": 3.4
+      "speed": 3.4,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -797,7 +819,7 @@
     "screenshot": { "id": 477377, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [19290, ""] },
-      "avgbuyout": 139500,
+      "avgbuyout": 130000,
       "displayid": 19290,
       "dmgmax1": 78,
       "dmgmin1": 52,
@@ -813,7 +835,8 @@
       "sellprice": 3066,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 3.3
+      "speed": 3.3,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -845,7 +868,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 3,
-      "spi": 4
+      "spi": 4,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -876,7 +900,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 1.7,
-      "sta": 1
+      "sta": 1,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -907,7 +932,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 3.2,
-      "spi": 5
+      "spi": 5,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -921,7 +947,7 @@
     "screenshot": { "id": 68977, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [8570, ""] },
-      "avgbuyout": 1890,
+      "avgbuyout": 1850,
       "displayid": 8570,
       "dmgmax1": 34,
       "dmgmin1": 18,
@@ -939,7 +965,8 @@
       "slotbak": 21,
       "speed": 2.7,
       "sta": 2,
-      "str": 2
+      "str": 2,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -971,7 +998,8 @@
       "slotbak": 13,
       "speed": 2.6,
       "sta": 3,
-      "str": 4
+      "str": 4,
+      "itemType": "One-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1002,7 +1030,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3.2,
-      "str": 8
+      "str": 8,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1033,7 +1062,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.2,
-      "sta": 3
+      "sta": 3,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1065,7 +1095,8 @@
       "slotbak": 17,
       "speed": 3,
       "sta": 3,
-      "str": 6
+      "str": 6,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1096,7 +1127,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.9,
-      "str": 3
+      "str": 3,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1128,7 +1160,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 2.9,
-      "str": 6
+      "str": 6,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1159,7 +1192,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 3.1,
-      "spi": 6
+      "spi": 6,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1189,7 +1223,8 @@
       "sellprice": 3337,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 2
+      "speed": 2,
+      "itemType": "One-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1203,7 +1238,7 @@
     "screenshot": { "id": 80399, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [9117, ""] },
-      "avgbuyout": 38000,
+      "avgbuyout": 36768,
       "displayid": 9117,
       "dmgmax1": 48,
       "dmgmin1": 25,
@@ -1221,7 +1256,8 @@
       "slotbak": 13,
       "speed": 2.6,
       "sta": 3,
-      "str": 3
+      "str": 3,
+      "itemType": "One-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1253,7 +1289,8 @@
       "shasplpwr": 11,
       "sheathtype": 2,
       "slotbak": 17,
-      "speed": 3.6
+      "speed": 3.6,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1284,7 +1321,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 2.8,
-      "spi": 6
+      "spi": 6,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1315,7 +1353,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.6,
-      "sta": 1
+      "sta": 1,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1346,7 +1385,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.2,
-      "str": 1
+      "str": 1,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1377,7 +1417,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.6,
-      "spi": 1
+      "spi": 1,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1408,7 +1449,8 @@
       "sellprice": 995,
       "sheathtype": 2,
       "slotbak": 17,
-      "speed": 2.8
+      "speed": 2.8,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1439,7 +1481,8 @@
       "sellprice": 905,
       "sheathtype": 2,
       "slotbak": 17,
-      "speed": 3
+      "speed": 3,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1471,7 +1514,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.9,
-      "str": 3
+      "str": 3,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1502,7 +1546,8 @@
       "sellprice": 1113,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.4
+      "speed": 1.4,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1533,7 +1578,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 1.8,
-      "sta": 3
+      "sta": 3,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1564,7 +1610,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2,
-      "sta": 2
+      "sta": 2,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1596,7 +1643,8 @@
       "slotbak": 17,
       "speed": 3,
       "spi": 4,
-      "sta": 2
+      "sta": 2,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1628,7 +1676,8 @@
       "slotbak": 17,
       "speed": 2.8,
       "sta": 10,
-      "str": 11
+      "str": 11,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1661,7 +1710,8 @@
       "slotbak": 17,
       "speed": 2.9,
       "spi": 4,
-      "str": 4
+      "str": 4,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1692,7 +1742,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 2.9,
-      "str": 10
+      "str": 10,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1706,7 +1757,7 @@
     "screenshot": { "id": 58987, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [6456, "inv_misc_monsterfang_01"] },
-      "avgbuyout": 1700,
+      "avgbuyout": 1699,
       "displayid": 6456,
       "dmgmax1": 17,
       "dmgmin1": 8,
@@ -1723,7 +1774,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.4,
-      "str": 2
+      "str": 2,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1755,7 +1807,8 @@
       "slotbak": 17,
       "speed": 3.4,
       "sta": 4,
-      "str": 8
+      "str": 8,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1785,7 +1838,8 @@
       "sellprice": 4414,
       "sheathtype": 2,
       "slotbak": 17,
-      "speed": 2.8
+      "speed": 2.8,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1830,52 +1884,52 @@
       {
         "name": "...of Healing",
         "chance": "(5.8% chance)",
-        "stats": { "splheal": "2)" }
+        "stats": { "splheal": "22" }
       },
       {
         "name": "...of Stamina",
         "chance": "(5.3% chance)",
-        "stats": { "sta": "1)" }
+        "stats": { "sta": "10" }
       },
       {
         "name": "...of Intellect",
         "chance": "(4.9% chance)",
-        "stats": { "int": "1)" }
+        "stats": { "int": "10" }
       },
       {
         "name": "...of Spirit",
         "chance": "(4.6% chance)",
-        "stats": { "spi": "1)" }
+        "stats": { "spi": "10" }
       },
       {
         "name": "...of Arcane Wrath",
         "chance": "(3.9% chance)",
-        "stats": { "arcsplpwr": "1)" }
+        "stats": { "arcsplpwr": "14" }
       },
       {
         "name": "...of Nature's Wrath",
         "chance": "(3.8% chance)",
-        "stats": { "natsplpwr": "1)" }
+        "stats": { "natsplpwr": "14" }
       },
       {
         "name": "...of Fiery Wrath",
         "chance": "(2.9% chance)",
-        "stats": { "firsplpwr": "1)" }
+        "stats": { "firsplpwr": "14" }
       },
       {
         "name": "...of Power",
         "chance": "(2.2% chance)",
-        "stats": { "mleatkpwr": "2)" }
+        "stats": { "mleatkpwr": "20" }
       },
       {
         "name": "...of Frozen Wrath",
         "chance": "(2.0% chance)",
-        "stats": { "frosplpwr": "1)" }
+        "stats": { "frosplpwr": "14" }
       },
       {
         "name": "...of Shadow Wrath",
         "chance": "(2.0% chance)",
-        "stats": { "shasplpwr": "1)" }
+        "stats": { "shasplpwr": "14" }
       }
     ]
   },
@@ -1902,7 +1956,8 @@
       "sellprice": 742,
       "sheathtype": 3,
       "slotbak": 21,
-      "speed": 2
+      "speed": 2,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1932,7 +1987,8 @@
       "sellprice": 386,
       "sheathtype": 3,
       "slotbak": 21,
-      "speed": 2
+      "speed": 2,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -1946,7 +2002,7 @@
     "screenshot": { "id": 10001, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [28578, ""] },
-      "avgbuyout": 9800,
+      "avgbuyout": 9900,
       "displayid": 28578,
       "dmgmax1": 71,
       "dmgmin1": 47,
@@ -1962,7 +2018,8 @@
       "sellprice": 5059,
       "sheathtype": 2,
       "slotbak": 17,
-      "speed": 3
+      "speed": 3,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2007,52 +2064,52 @@
       {
         "name": "...of Healing",
         "chance": "(5.5% chance)",
-        "stats": { "splheal": "2)" }
+        "stats": { "splheal": "24" }
       },
       {
         "name": "...of Stamina",
         "chance": "(4.7% chance)",
-        "stats": { "sta": "1)" }
+        "stats": { "sta": "11" }
       },
       {
         "name": "...of Intellect",
         "chance": "(4.6% chance)",
-        "stats": { "int": "1)" }
+        "stats": { "int": "11" }
       },
       {
         "name": "...of Spirit",
         "chance": "(4.2% chance)",
-        "stats": { "spi": "1)" }
+        "stats": { "spi": "11" }
       },
       {
         "name": "...of Nature's Wrath",
         "chance": "(4.1% chance)",
-        "stats": { "natsplpwr": "1)" }
+        "stats": { "natsplpwr": "16" }
       },
       {
         "name": "...of Arcane Wrath",
         "chance": "(4.0% chance)",
-        "stats": { "arcsplpwr": "1)" }
+        "stats": { "arcsplpwr": "16" }
       },
       {
         "name": "...of Fiery Wrath",
         "chance": "(3.1% chance)",
-        "stats": { "firsplpwr": "1)" }
+        "stats": { "firsplpwr": "16" }
       },
       {
         "name": "...of Shadow Wrath",
         "chance": "(2.6% chance)",
-        "stats": { "shasplpwr": "1)" }
+        "stats": { "shasplpwr": "16" }
       },
       {
         "name": "...of Frozen Wrath",
         "chance": "(2.5% chance)",
-        "stats": { "frosplpwr": "1)" }
+        "stats": { "frosplpwr": "16" }
       },
       {
         "name": "...of Power",
         "chance": "(2.2% chance)",
-        "stats": { "mleatkpwr": "2)" }
+        "stats": { "mleatkpwr": "22" }
       }
     ]
   },
@@ -2079,7 +2136,8 @@
       "sellprice": 933,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 2.1
+      "speed": 2.1,
+      "itemType": "One-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2110,7 +2168,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.6,
-      "sta": 1
+      "sta": 1,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2140,7 +2199,8 @@
       "sellprice": 323,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.6
+      "speed": 1.6,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2211,7 +2271,7 @@
     "screenshot": { "id": 68994, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [8534, ""] },
-      "avgbuyout": 3700,
+      "avgbuyout": 4025,
       "displayid": 8534,
       "dmgmax1": 59,
       "dmgmin1": 39,
@@ -2229,7 +2289,8 @@
       "slotbak": 17,
       "speed": 3.2,
       "sta": 3,
-      "str": 6
+      "str": 6,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2262,7 +2323,8 @@
       "slotbak": 13,
       "speed": 2.5,
       "sta": 4,
-      "str": 3
+      "str": 3,
+      "itemType": "One-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2293,7 +2355,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3.4,
-      "str": 6
+      "str": 6,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2325,7 +2388,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 3.4,
-      "str": 11
+      "str": 11,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2357,7 +2421,8 @@
       "slotbak": 17,
       "speed": 3.8,
       "sta": 5,
-      "str": 7
+      "str": 7,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2389,7 +2454,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.4,
-      "str": 1
+      "str": 1,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2403,7 +2469,7 @@
     "screenshot": { "id": 6832, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [20345, ""] },
-      "avgbuyout": 37199,
+      "avgbuyout": 36818,
       "displayid": 20345,
       "dmgmax1": 32,
       "dmgmin1": 17,
@@ -2422,7 +2488,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.5,
-      "spi": 2
+      "spi": 2,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2453,7 +2520,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3.3,
-      "str": 2
+      "str": 2,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2483,7 +2551,8 @@
       "sellprice": 2996,
       "sheathtype": 3,
       "slotbak": 21,
-      "speed": 2.6
+      "speed": 2.6,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2514,7 +2583,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.2,
-      "str": 1
+      "str": 1,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2545,7 +2615,8 @@
       "sellprice": 479,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.5
+      "speed": 1.5,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2576,7 +2647,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2,
-      "sta": 1
+      "sta": 1,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2609,7 +2681,8 @@
       "speed": 3,
       "spi": 3,
       "splheal": 24,
-      "sta": 2
+      "sta": 2,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2641,7 +2714,8 @@
       "sellprice": 4023,
       "sheathtype": 2,
       "slotbak": 17,
-      "speed": 2.8
+      "speed": 2.8,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2672,7 +2746,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2,
-      "spi": 1
+      "spi": 1,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2703,7 +2778,8 @@
       "shasplpwr": 21,
       "sheathtype": 2,
       "slotbak": 17,
-      "speed": 2.6
+      "speed": 2.6,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2736,7 +2812,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.6,
-      "spi": 2
+      "spi": 2,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2766,7 +2843,8 @@
       "sellprice": 605,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.6
+      "speed": 1.6,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2853,7 +2931,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.5,
-      "sta": 1
+      "sta": 1,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2885,7 +2964,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.7,
-      "str": 3
+      "str": 3,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2899,7 +2979,7 @@
     "screenshot": { "id": 463280, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [6443, ""] },
-      "avgbuyout": 7900,
+      "avgbuyout": 8000,
       "displayid": 6443,
       "dmgmax1": 25,
       "dmgmin1": 13,
@@ -2915,7 +2995,8 @@
       "sellprice": 3830,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.3
+      "speed": 1.3,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -2925,7 +3006,7 @@
       {
         "name": "...of Power",
         "chance": "(19.7% chance)",
-        "stats": { "mleatkpwr": "1)" }
+        "stats": { "mleatkpwr": "10" }
       },
       {
         "name": "...of the Monkey",
@@ -2955,7 +3036,7 @@
       {
         "name": "...of Healing",
         "chance": "(3.9% chance)",
-        "stats": { "splheal": "1)" }
+        "stats": { "splheal": "11" }
       },
       {
         "name": "...of Frozen Wrath",
@@ -3013,7 +3094,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.5,
-      "str": 2
+      "str": 2,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3044,7 +3126,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3.2,
-      "str": 6
+      "str": 6,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3076,7 +3159,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 1.9,
-      "str": 4
+      "str": 4,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3107,7 +3191,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.8,
-      "sta": 2
+      "sta": 2,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3136,7 +3221,8 @@
       "sellprice": 3663,
       "sheathtype": 7,
       "slotbak": 13,
-      "speed": 1.7
+      "speed": 1.7,
+      "itemType": "One-Hand Fist Weapon"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3150,7 +3236,7 @@
     "screenshot": { "id": 408138, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [20396, ""] },
-      "avgbuyout": 3483,
+      "avgbuyout": 3424,
       "displayid": 20396,
       "dmgmax1": 20,
       "dmgmin1": 10,
@@ -3166,7 +3252,8 @@
       "sellprice": 1394,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.5
+      "speed": 1.5,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3197,7 +3284,8 @@
       "slotbak": 17,
       "speed": 3.3,
       "sta": 6,
-      "str": 6
+      "str": 6,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3227,7 +3315,8 @@
       "sellprice": 2072,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 3.5
+      "speed": 3.5,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3287,7 +3376,7 @@
       {
         "name": "...of Power",
         "chance": "(3.0% chance)",
-        "stats": { "mleatkpwr": "1)" }
+        "stats": { "mleatkpwr": "14" }
       }
     ]
   },
@@ -3314,7 +3403,8 @@
       "sellprice": 2495,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 3.3
+      "speed": 3.3,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3328,7 +3418,7 @@
     "screenshot": { "id": 78665, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [5509, ""] },
-      "avgbuyout": 2572,
+      "avgbuyout": 2550,
       "displayid": 5509,
       "dmgmax1": 52,
       "dmgmin1": 34,
@@ -3344,7 +3434,8 @@
       "sellprice": 1372,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 3.6
+      "speed": 3.6,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3404,7 +3495,7 @@
       {
         "name": "...of Power",
         "chance": "(2.9% chance)",
-        "stats": { "mleatkpwr": "1)" }
+        "stats": { "mleatkpwr": "10" }
       }
     ]
   },
@@ -3431,7 +3522,8 @@
       "sellprice": 2741,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 3.1
+      "speed": 3.1,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3491,7 +3583,7 @@
       {
         "name": "...of Power",
         "chance": "(2.8% chance)",
-        "stats": { "mleatkpwr": "1)" }
+        "stats": { "mleatkpwr": "16" }
       }
     ]
   },
@@ -3502,7 +3594,7 @@
     "screenshot": { "id": 237923, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [19372, ""] },
-      "avgbuyout": 4308,
+      "avgbuyout": 4299,
       "displayid": 19372,
       "dmgmax1": 58,
       "dmgmin1": 38,
@@ -3518,7 +3610,8 @@
       "sellprice": 2262,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 3.3
+      "speed": 3.3,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3578,7 +3671,7 @@
       {
         "name": "...of Power",
         "chance": "(2.8% chance)",
-        "stats": { "mleatkpwr": "1)" }
+        "stats": { "mleatkpwr": "16" }
       }
     ]
   },
@@ -3589,7 +3682,7 @@
     "screenshot": { "id": 50300, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [19283, ""] },
-      "avgbuyout": 8000,
+      "avgbuyout": 8100,
       "displayid": 19283,
       "dmgmax1": 71,
       "dmgmin1": 47,
@@ -3605,7 +3698,8 @@
       "sellprice": 4496,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 3.1
+      "speed": 3.1,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3650,22 +3744,22 @@
       {
         "name": "...of Stamina",
         "chance": "(6.3% chance)",
-        "stats": { "sta": "1)" }
+        "stats": { "sta": "11" }
       },
       {
         "name": "...of Strength",
         "chance": "(6.1% chance)",
-        "stats": { "str": "1)" }
+        "stats": { "str": "11" }
       },
       {
         "name": "...of Agility",
         "chance": "(6.0% chance)",
-        "stats": { "agi": "1)" }
+        "stats": { "agi": "11" }
       },
       {
         "name": "...of Power",
         "chance": "(3.1% chance)",
-        "stats": { "mleatkpwr": "2)" }
+        "stats": { "mleatkpwr": "22" }
       }
     ]
   },
@@ -3694,7 +3788,8 @@
       "slotbak": 17,
       "speed": 2.4,
       "sta": 10,
-      "str": 10
+      "str": 10,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3724,7 +3819,8 @@
       "sellprice": 5626,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 3.6
+      "speed": 3.6,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3769,22 +3865,22 @@
       {
         "name": "...of Stamina",
         "chance": "(6.3% chance)",
-        "stats": { "sta": "1)" }
+        "stats": { "sta": "11" }
       },
       {
         "name": "...of Strength",
         "chance": "(6.1% chance)",
-        "stats": { "str": "1)" }
+        "stats": { "str": "11" }
       },
       {
         "name": "...of Agility",
         "chance": "(6.0% chance)",
-        "stats": { "agi": "1)" }
+        "stats": { "agi": "11" }
       },
       {
         "name": "...of Power",
         "chance": "(3.1% chance)",
-        "stats": { "mleatkpwr": "2)" }
+        "stats": { "mleatkpwr": "22" }
       }
     ]
   },
@@ -3812,7 +3908,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.6,
-      "str": 1
+      "str": 1,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3843,7 +3940,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.2,
-      "sta": 1
+      "sta": 1,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3874,7 +3972,8 @@
       "shares": 7,
       "sheathtype": 2,
       "slotbak": 17,
-      "speed": 2.7
+      "speed": 2.7,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3904,7 +4003,8 @@
       "sellprice": 3986,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 2
+      "speed": 2,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3936,7 +4036,8 @@
       "slotbak": 13,
       "speed": 1.5,
       "sta": 3,
-      "str": 3
+      "str": 3,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -3968,7 +4069,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.6,
-      "sta": 5
+      "sta": 5,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4001,7 +4103,8 @@
       "slotbak": 17,
       "speed": 2.6,
       "spi": 11,
-      "sta": 4
+      "sta": 4,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4030,7 +4133,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3.2,
-      "str": 3
+      "str": 3,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4059,7 +4163,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 3.2,
-      "sta": 3
+      "sta": 3,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4088,7 +4193,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 2.7,
-      "sta": 7
+      "sta": 7,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4102,7 +4208,7 @@
     "screenshot": { "id": 83329, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [8516, ""] },
-      "avgbuyout": 4282,
+      "avgbuyout": 3500,
       "displayid": 8516,
       "dmgmax1": 35,
       "dmgmin1": 23,
@@ -4119,7 +4225,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3.2,
-      "sta": 3
+      "sta": 3,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4151,7 +4258,8 @@
       "slotbak": 21,
       "speed": 2.5,
       "sta": 1,
-      "str": 1
+      "str": 1,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4166,7 +4274,7 @@
     "jsonequip": {
       "agi": 4,
       "appearances": { "0": [2708, ""] },
-      "avgbuyout": 9900,
+      "avgbuyout": 10000,
       "displayid": 2708,
       "dmgmax1": 30,
       "dmgmin1": 16,
@@ -4182,7 +4290,8 @@
       "sellprice": 2731,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.8
+      "speed": 1.8,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4213,7 +4322,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.8,
-      "str": 4
+      "str": 4,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4227,6 +4337,7 @@
     "screenshot": { "id": 83456, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [3780, ""] },
+      "avgbuyout": 21496,
       "displayid": 3780,
       "dmgmax1": 57,
       "dmgmin1": 30,
@@ -4243,7 +4354,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.8,
-      "str": 5
+      "str": 5,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4272,7 +4384,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.4,
-      "str": 2
+      "str": 2,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4303,7 +4416,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3.6,
-      "sta": 7
+      "sta": 7,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4333,7 +4447,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.6,
-      "sta": 1
+      "sta": 1,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4363,7 +4478,8 @@
       "slotbak": 17,
       "speed": 3.6,
       "sta": 2,
-      "str": 3
+      "str": 3,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4394,7 +4510,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.9,
-      "sta": 3
+      "sta": 3,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4426,7 +4543,8 @@
       "slotbak": 17,
       "speed": 3.2,
       "spi": 4,
-      "sta": 2
+      "sta": 2,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4457,7 +4575,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.8,
-      "str": 1
+      "str": 1,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4488,7 +4607,8 @@
       "sellprice": 1855,
       "sheathtype": 2,
       "slotbak": 17,
-      "speed": 3.4
+      "speed": 3.4,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4520,7 +4640,8 @@
       "slotbak": 21,
       "speed": 2.2,
       "sta": 2,
-      "str": 2
+      "str": 2,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4552,7 +4673,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.3,
-      "sta": 2
+      "sta": 2,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4583,7 +4705,8 @@
       "sellprice": 3594,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.8
+      "speed": 1.8,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4613,7 +4736,8 @@
       "sellprice": 3332,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.6
+      "speed": 1.6,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4646,7 +4770,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 2,
-      "spi": 2
+      "spi": 2,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4676,7 +4801,8 @@
       "sellprice": 309,
       "sheathtype": 3,
       "slotbak": 21,
-      "speed": 1.8
+      "speed": 1.8,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4706,7 +4832,8 @@
       "sellprice": 298,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 3.2
+      "speed": 3.2,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4777,7 +4904,7 @@
     "screenshot": { "id": 235095, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [6813, ""] },
-      "avgbuyout": 1383,
+      "avgbuyout": 1359,
       "displayid": 6813,
       "dmgmax1": 34,
       "dmgmin1": 22,
@@ -4793,7 +4920,8 @@
       "sellprice": 610,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 3.1
+      "speed": 3.1,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4880,7 +5008,8 @@
       "sellprice": 631,
       "sheathtype": 2,
       "slotbak": 17,
-      "speed": 2.8
+      "speed": 2.8,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -4997,7 +5126,8 @@
       "sellprice": 1694,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 2.3
+      "speed": 2.3,
+      "itemType": "One-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5027,7 +5157,8 @@
       "sellprice": 612,
       "sheathtype": 3,
       "slotbak": 21,
-      "speed": 2.2
+      "speed": 2.2,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5057,7 +5188,8 @@
       "sellprice": 922,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 3.3
+      "speed": 3.3,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5144,7 +5276,8 @@
       "sellprice": 979,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.7
+      "speed": 1.7,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5226,7 +5359,8 @@
       "sellprice": 1487,
       "sheathtype": 2,
       "slotbak": 17,
-      "speed": 2.5
+      "speed": 2.5,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5271,7 +5405,7 @@
       {
         "name": "...of Healing",
         "chance": "(5.1% chance)",
-        "stats": { "splheal": "1)" }
+        "stats": { "splheal": "15" }
       },
       {
         "name": "...of Spirit",
@@ -5291,32 +5425,32 @@
       {
         "name": "...of Arcane Wrath",
         "chance": "(4.1% chance)",
-        "stats": { "arcsplpwr": "1)" }
+        "stats": { "arcsplpwr": "10" }
       },
       {
         "name": "...of Nature's Wrath",
         "chance": "(4.1% chance)",
-        "stats": { "natsplpwr": "1)" }
+        "stats": { "natsplpwr": "10" }
       },
       {
         "name": "...of Fiery Wrath",
         "chance": "(2.9% chance)",
-        "stats": { "firsplpwr": "1)" }
+        "stats": { "firsplpwr": "10" }
       },
       {
         "name": "...of Power",
         "chance": "(2.1% chance)",
-        "stats": { "mleatkpwr": "1)" }
+        "stats": { "mleatkpwr": "14" }
       },
       {
         "name": "...of Frozen Wrath",
         "chance": "(2.1% chance)",
-        "stats": { "frosplpwr": "1)" }
+        "stats": { "frosplpwr": "10" }
       },
       {
         "name": "...of Shadow Wrath",
         "chance": "(2.1% chance)",
-        "stats": { "shasplpwr": "1)" }
+        "stats": { "shasplpwr": "10" }
       }
     ]
   },
@@ -5345,7 +5479,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 2.8,
-      "sta": 5
+      "sta": 5,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5359,7 +5494,7 @@
     "screenshot": { "id": 53258, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [6808, ""] },
-      "avgbuyout": 15927,
+      "avgbuyout": 14047,
       "buyprice": 7350,
       "displayid": 6808,
       "dmgmax1": 51,
@@ -5377,7 +5512,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3.4,
-      "str": 6
+      "str": 6,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5409,7 +5545,8 @@
       "sellprice": 3371,
       "sheathtype": 3,
       "slotbak": 21,
-      "speed": 1.7
+      "speed": 1.7,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5442,7 +5579,8 @@
       "sellprice": 4094,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 2.8
+      "speed": 2.8,
+      "itemType": "One-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5474,7 +5612,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2,
-      "sta": 4
+      "sta": 4,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5503,7 +5642,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.5,
-      "str": 1
+      "str": 1,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5532,7 +5672,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.3,
-      "str": 1
+      "str": 1,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5563,7 +5704,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 1.8,
-      "str": 1
+      "str": 1,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5593,7 +5735,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3.1,
-      "str": 2
+      "str": 2,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5622,7 +5765,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.7,
-      "str": 1
+      "str": 1,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5651,7 +5795,8 @@
       "sellprice": 388,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.5
+      "speed": 1.5,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5682,7 +5827,8 @@
       "sellprice": 730,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.4
+      "speed": 1.4,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5713,7 +5859,8 @@
       "slotbak": 17,
       "speed": 2.7,
       "spi": 8,
-      "sta": 8
+      "sta": 8,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5745,7 +5892,8 @@
       "speed": 1.9,
       "spi": 1,
       "sta": 1,
-      "str": 2
+      "str": 2,
+      "itemType": "One-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5775,7 +5923,8 @@
       "sheathtype": 7,
       "slotbak": 13,
       "speed": 2.8,
-      "str": 3
+      "str": 3,
+      "itemType": "One-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5807,7 +5956,8 @@
       "slotbak": 17,
       "speed": 3,
       "spi": 5,
-      "sta": 5
+      "sta": 5,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5837,7 +5987,8 @@
       "sellprice": 685,
       "sheathtype": 3,
       "slotbak": 21,
-      "speed": 2.5
+      "speed": 2.5,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5866,7 +6017,8 @@
       "sellprice": 1436,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.4
+      "speed": 1.4,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5895,7 +6047,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 2.8,
-      "spi": 6
+      "spi": 6,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5924,7 +6077,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3.1,
-      "sta": 6
+      "sta": 6,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5953,7 +6107,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 2.3,
-      "str": 9
+      "str": 9,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -5982,7 +6137,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.4,
-      "sta": 2
+      "sta": 2,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6011,7 +6167,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 3.1,
-      "sta": 4
+      "sta": 4,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6040,7 +6197,8 @@
       "sellprice": 562,
       "sheathtype": 3,
       "slotbak": 21,
-      "speed": 1.9
+      "speed": 1.9,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6069,7 +6227,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3.2,
-      "sta": 3
+      "sta": 3,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6101,7 +6260,8 @@
       "slotbak": 17,
       "speed": 2.5,
       "spi": 4,
-      "str": 9
+      "str": 9,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6131,7 +6291,8 @@
       "sellprice": 1686,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 2.5
+      "speed": 2.5,
+      "itemType": "One-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6163,7 +6324,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.7,
-      "sta": 2
+      "sta": 2,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6195,7 +6357,8 @@
       "slotbak": 13,
       "speed": 1.8,
       "sta": 3,
-      "str": 3
+      "str": 3,
+      "itemType": "One-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6227,7 +6390,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3.6,
-      "sta": 3
+      "sta": 3,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6257,7 +6421,8 @@
       "sellprice": 3109,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.8
+      "speed": 1.8,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6288,7 +6453,8 @@
       "sellprice": 922,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 2.3
+      "speed": 2.3,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6318,7 +6484,8 @@
       "sellprice": 4893,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.8
+      "speed": 1.8,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6349,7 +6516,8 @@
       "slotbak": 17,
       "speed": 2.9,
       "spi": 12,
-      "sta": 5
+      "sta": 5,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6379,7 +6547,8 @@
       "sheathtype": 3,
       "slotbak": 21,
       "speed": 2.4,
-      "str": 4
+      "str": 4,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6411,7 +6580,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.9,
-      "sta": 2
+      "sta": 2,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6442,7 +6612,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 2.5,
-      "str": 4
+      "str": 4,
+      "itemType": "One-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6473,7 +6644,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.8,
-      "str": 2
+      "str": 2,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6502,7 +6674,8 @@
       "sellprice": 3018,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 2.8
+      "speed": 2.8,
+      "itemType": "One-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6533,7 +6706,8 @@
       "slotbak": 17,
       "speed": 2.9,
       "spi": 7,
-      "sta": 7
+      "sta": 7,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6565,7 +6739,8 @@
       "slotbak": 17,
       "speed": 2.9,
       "spi": 12,
-      "sta": 2
+      "sta": 2,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6594,7 +6769,8 @@
       "sellprice": 4665,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.3
+      "speed": 1.3,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6625,7 +6801,8 @@
       "slotbak": 17,
       "speed": 3.3,
       "spi": 7,
-      "sta": 5
+      "sta": 5,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6656,7 +6833,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3.5,
-      "str": 11
+      "str": 11,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6688,7 +6866,8 @@
       "slotbak": 13,
       "speed": 2.3,
       "sta": 5,
-      "str": 3
+      "str": 3,
+      "itemType": "One-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6718,7 +6897,8 @@
       "sellprice": 5288,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.6
+      "speed": 1.6,
+      "itemType": "One-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6748,7 +6928,8 @@
       "sellprice": 5483,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 2.8
+      "speed": 2.8,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6780,7 +6961,8 @@
       "slotbak": 13,
       "speed": 2,
       "sta": 1,
-      "str": 5
+      "str": 5,
+      "itemType": "One-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6812,7 +6994,8 @@
       "slotbak": 17,
       "speed": 2.4,
       "sta": 8,
-      "str": 7
+      "str": 7,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6845,7 +7028,8 @@
       "speed": 2.6,
       "spi": 5,
       "sta": 8,
-      "str": 4
+      "str": 4,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6877,7 +7061,8 @@
       "slotbak": 13,
       "speed": 2.4,
       "spi": 2,
-      "str": 4
+      "str": 4,
+      "itemType": "One-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6907,7 +7092,8 @@
       "sellprice": 4771,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 3.2
+      "speed": 3.2,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6939,7 +7125,8 @@
       "slotbak": 21,
       "speed": 2.5,
       "spi": 2,
-      "str": 6
+      "str": 6,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -6970,7 +7157,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.5,
-      "sta": 1
+      "sta": 1,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7000,7 +7188,8 @@
       "sellprice": 1219,
       "sheathtype": 3,
       "slotbak": 21,
-      "speed": 2.3
+      "speed": 2.3,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7030,7 +7219,8 @@
       "sellprice": 2376,
       "sheathtype": 3,
       "slotbak": 21,
-      "speed": 2.8
+      "speed": 2.8,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7112,7 +7302,8 @@
       "sellprice": 2695,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 2.7
+      "speed": 2.7,
+      "itemType": "One-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7194,7 +7385,8 @@
       "sellprice": 2755,
       "sheathtype": 3,
       "slotbak": 21,
-      "speed": 2.2
+      "speed": 2.2,
+      "itemType": "Main Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7265,7 +7457,7 @@
     "screenshot": { "id": 463277, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [20414, ""] },
-      "avgbuyout": 6800,
+      "avgbuyout": 6876,
       "displayid": 20414,
       "dmgmax1": 28,
       "dmgmin1": 15,
@@ -7281,7 +7473,8 @@
       "sellprice": 3012,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.6
+      "speed": 1.6,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7378,7 +7571,8 @@
       "sellprice": 4426,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.4
+      "speed": 1.4,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7388,7 +7582,7 @@
       {
         "name": "...of Power",
         "chance": "(19.7% chance)",
-        "stats": { "mleatkpwr": "1)" }
+        "stats": { "mleatkpwr": "10" }
       },
       {
         "name": "...of the Monkey",
@@ -7418,7 +7612,7 @@
       {
         "name": "...of Healing",
         "chance": "(3.9% chance)",
-        "stats": { "splheal": "1)" }
+        "stats": { "splheal": "11" }
       },
       {
         "name": "...of Frozen Wrath",
@@ -7475,7 +7669,8 @@
       "sellprice": 3306,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 3.2
+      "speed": 3.2,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7520,22 +7715,22 @@
       {
         "name": "...of Strength",
         "chance": "(6.1% chance)",
-        "stats": { "str": "1)" }
+        "stats": { "str": "10" }
       },
       {
         "name": "...of Spirit",
         "chance": "(5.8% chance)",
-        "stats": { "spi": "1)" }
+        "stats": { "spi": "10" }
       },
       {
         "name": "...of Stamina",
         "chance": "(5.7% chance)",
-        "stats": { "sta": "1)" }
+        "stats": { "sta": "10" }
       },
       {
         "name": "...of Power",
         "chance": "(3.0% chance)",
-        "stats": { "mleatkpwr": "2)" }
+        "stats": { "mleatkpwr": "20" }
       }
     ]
   },
@@ -7546,7 +7741,7 @@
     "screenshot": { "id": 252994, "imageType": 2 },
     "jsonequip": {
       "appearances": { "0": [28460, ""] },
-      "avgbuyout": 2185,
+      "avgbuyout": 2168,
       "displayid": 28460,
       "dmgmax1": 35,
       "dmgmin1": 23,
@@ -7562,7 +7757,8 @@
       "sellprice": 1024,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 2.7
+      "speed": 2.7,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7622,7 +7818,7 @@
       {
         "name": "...of Power",
         "chance": "(2.9% chance)",
-        "stats": { "mleatkpwr": "1)" }
+        "stats": { "mleatkpwr": "10" }
       }
     ]
   },
@@ -7649,7 +7845,8 @@
       "sellprice": 3036,
       "sheathtype": 1,
       "slotbak": 17,
-      "speed": 3.3
+      "speed": 3.3,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7709,7 +7906,7 @@
       {
         "name": "...of Power",
         "chance": "(2.8% chance)",
-        "stats": { "mleatkpwr": "1)" }
+        "stats": { "mleatkpwr": "16" }
       }
     ]
   },
@@ -7736,7 +7933,8 @@
       "slotbak": 17,
       "speed": 3.3,
       "sta": 3,
-      "str": 3
+      "str": 3,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7766,7 +7964,8 @@
       "slotbak": 13,
       "speed": 1.5,
       "spi": 1,
-      "sta": 1
+      "sta": 1,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7796,7 +7995,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 3.3,
-      "spi": 2
+      "spi": 2,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7826,7 +8026,8 @@
       "slotbak": 21,
       "speed": 2.9,
       "sta": 1,
-      "str": 1
+      "str": 1,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7857,7 +8058,8 @@
       "slotbak": 17,
       "speed": 3.3,
       "sta": 8,
-      "str": 4
+      "str": 4,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7887,7 +8089,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 2.6,
-      "sta": 3
+      "sta": 3,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7917,7 +8120,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 3.1,
-      "sta": 4
+      "sta": 4,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7950,7 +8154,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 2.9,
-      "sta": 8
+      "sta": 8,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -7983,7 +8188,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.7,
-      "sta": 2
+      "sta": 2,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8013,7 +8219,8 @@
       "sheathtype": 1,
       "slotbak": 17,
       "speed": 3,
-      "str": 14
+      "str": 14,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8042,7 +8249,8 @@
       "sellprice": 4665,
       "sheathtype": 3,
       "slotbak": 13,
-      "speed": 1.8
+      "speed": 1.8,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8074,7 +8282,8 @@
       "speed": 2.6,
       "spi": 10,
       "splheal": 24,
-      "sta": 5
+      "sta": 5,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8106,7 +8315,8 @@
       "slotbak": 21,
       "speed": 1.3,
       "sta": 2,
-      "str": 3
+      "str": 3,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8140,7 +8350,8 @@
       "speed": 2,
       "spi": 14,
       "spldmg": 26,
-      "splheal": 26
+      "splheal": 26,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8171,7 +8382,8 @@
       "slotbak": 17,
       "speed": 3.3,
       "spi": 13,
-      "sta": 9
+      "sta": 9,
+      "itemType": "Two-Hand Axe"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8203,7 +8415,8 @@
       "slotbak": 17,
       "speed": 2.8,
       "splheal": 26,
-      "sta": 11
+      "sta": 11,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8239,7 +8452,8 @@
       "speed": 2.8,
       "spi": 6,
       "sta": 6,
-      "str": 6
+      "str": 6,
+      "itemType": "Two-Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8268,7 +8482,8 @@
       "sellprice": 3663,
       "sheathtype": 7,
       "slotbak": 21,
-      "speed": 1.4
+      "speed": 1.4,
+      "itemType": "Main Hand Fist Weapon"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8297,7 +8512,8 @@
       "sellprice": 3663,
       "sheathtype": 7,
       "slotbak": 22,
-      "speed": 1.4
+      "speed": 1.4,
+      "itemType": "Off Hand Fist Weapon"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8326,7 +8542,8 @@
       "sellprice": 4665,
       "sheathtype": 3,
       "slotbak": 22,
-      "speed": 1.3
+      "speed": 1.3,
+      "itemType": "Off Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8359,7 +8576,8 @@
       "speed": 1.2,
       "spldmg": 4,
       "splheal": 4,
-      "sta": 2
+      "sta": 2,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8390,7 +8608,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.2,
-      "sta": 3
+      "sta": 3,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8422,7 +8641,8 @@
       "slotbak": 21,
       "speed": 2,
       "spi": 3,
-      "sta": 2
+      "sta": 2,
+      "itemType": "Main Hand Mace"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8457,7 +8677,8 @@
       "speed": 1.5,
       "spldmg": 12,
       "splheal": 12,
-      "sta": 4
+      "sta": 4,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8490,7 +8711,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 2.9,
-      "sta": 10
+      "sta": 10,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8523,7 +8745,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.7,
-      "sta": 3
+      "sta": 3,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8556,7 +8779,8 @@
       "sheathtype": 2,
       "slotbak": 17,
       "speed": 2.9,
-      "sta": 10
+      "sta": 10,
+      "itemType": "Two-Hand Staff"
     },
     "attainable": 0,
     "flags2": 24580,
@@ -8589,7 +8813,8 @@
       "sheathtype": 3,
       "slotbak": 13,
       "speed": 1.7,
-      "sta": 3
+      "sta": 3,
+      "itemType": "One-Hand Dagger"
     },
     "attainable": 0,
     "flags2": 24580,

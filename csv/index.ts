@@ -172,6 +172,32 @@ const CSV_WOWHEAD_MAP: Record<CsvColumn, WowheadStat> = {
   'Shadow Resistance': 'shares',
 };
 
+const CSV_SLOT_MAP = {
+  1: 'Head',
+  2: 'Neck',
+  3: 'Shoulders',
+  4: 'Shirt',
+  5: 'Chest',
+  6: 'Waist',
+  7: 'Legs',
+  8: 'Feet',
+  9: 'Wrists',
+  10: 'Hands',
+  11: 'Finger',
+  12: 'Trinket',
+  13: 'Weapon',
+  14: 'Shield',
+  15: 'Ranged',
+  16: 'Back',
+  17: 'Weapon',
+  19: 'Tabard',
+  20: 'Chest',
+  21: 'Weapon',
+  22: 'Off hand',
+  23: 'Held in off hand',
+  27: 'Relic',
+};
+
 const csvWriter = createCsvWriter({
   path: './output.csv',
   header: COLUMNS.map((c) => ({ id: c, title: c })),
@@ -180,15 +206,32 @@ const csvWriter = createCsvWriter({
 const convertWowheadDataToCsv = (wowheadData: any) => {
   const data: Record<any, any> = {
     Name: wowheadData.name_enus,
+    Phase: 25,
   };
   const jsonEquip = wowheadData.jsonequip;
   const ignoredKeys = ['Name', 'Phase', 'Prerequisite', 'Set'];
+  let skipItem = false;
   for (const [key, value] of Object.entries(CSV_WOWHEAD_MAP)) {
     if (ignoredKeys.includes(key)) continue;
-    console.log(`${key}: ${value}`);
-    data[key] = jsonEquip[value];
+    let val = jsonEquip[value];
+    if (key === 'Unique') val = val === 1 ? 'TRUE' : val;
+    if (key === 'Slot') {
+      // @ts-ignore
+      val = CSV_SLOT_MAP[val];
+      if (!val) {
+        val = jsonEquip[value];
+        skipItem = true;
+      } else {
+        data.slotbak = jsonEquip[value];
+      }
+    }
+    if (key === 'Type' && [13, 17, 21].includes(jsonEquip.slotbak)) {
+      val = jsonEquip.itemType;
+    }
+
+    data[key] = val;
   }
-  return data;
+  return skipItem ? null : data;
 };
 
 const records = Object.keys(allData)
@@ -208,10 +251,12 @@ const records = Object.keys(allData)
     return itemArr.map((i: any) => convertWowheadDataToCsv(i));
   })
   .flat()
-  //   @ts-ignore
-  .sort((a, b) => a?.['Name']?.localeCompare(b?.['Name']));
-
-console.log('records', records);
+  .filter((item) => !!item)
+  .sort((a, b) =>
+    a.slotbak !== b.slotbak
+      ? a.slotbak - b.slotbak
+      : a?.['Name']?.localeCompare(b?.['Name']),
+  );
 
 csvWriter
   .writeRecords(records) // returns a promise

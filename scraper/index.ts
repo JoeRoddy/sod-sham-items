@@ -1,6 +1,7 @@
 import axios from 'axios';
 import fs from 'fs';
 import getItemHtml from './get-item-html';
+import { parseItemType } from './parse-item-data';
 import { parseRandomEnchantmentsFromPage } from './parse-random-enchants';
 
 // wowhead can only return 1k results at a time, at higher level bands, this may need to be broken up into multiple queries
@@ -20,7 +21,6 @@ const getWowheadJson = async (url: string): Promise<object> => {
   const afterStart = match?.slice(start);
   const cleaned = afterStart?.slice(0, afterStart?.indexOf(')'));
   const dataJson = JSON.parse(cleaned || '{}');
-  fs.writeFileSync('./match.json', cleaned || '');
 
   return dataJson;
 };
@@ -36,6 +36,7 @@ const checkForRandomEnchants = async (itemData: Record<string, any>) => {
     console.log(count);
 
     const itemPageHtml = await getItemHtml(itemId);
+    itemData[itemId].jsonequip.itemType = parseItemType(itemPageHtml);
     const [randomEnchants, unknownStats] =
       await parseRandomEnchantmentsFromPage(itemPageHtml);
     if (randomEnchants && randomEnchants.length) {
