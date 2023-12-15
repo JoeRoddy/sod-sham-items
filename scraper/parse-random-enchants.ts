@@ -32,8 +32,6 @@ const STAT_MAP = {
 export const parseRandomEnchantmentsFromPage = (html: string) => {
   const $ = cheerio.load(html);
   const randomEnchantments: any[] = [];
-  const deleteCharAt = (str: string, index: number) =>
-    str.slice(0, index) + str.slice(index + 1);
   const unknownStats = [];
 
   $('.random-enchantments ul li').each((index, element) => {
@@ -54,11 +52,14 @@ export const parseRandomEnchantmentsFromPage = (html: string) => {
           .split(',')
           .map((n) => n.trim())
           .map((n) => {
-            // "+(3 - 4) Spirit" => +4 Spirit
+            // "+(3 - 4) Spirit" => 4 Spirit
+            // "+(10 - 11) Strength => 11 Strength"
             const dashIndex = n.indexOf(' - ');
             if (dashIndex > 0) {
-              const afterDash = n.substring(dashIndex + 3);
-              return deleteCharAt(afterDash, 1);
+              return n
+                .substring(dashIndex + 3)
+                .replace(')', '')
+                .trim();
             } else {
               return n.slice(1);
             }
